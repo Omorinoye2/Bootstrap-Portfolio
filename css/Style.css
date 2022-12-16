@@ -1,4 +1,5 @@
 .name{
-    direction: flex;
+    display: flex;
     justify-content: center;
+    
 }
